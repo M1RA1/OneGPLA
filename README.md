@@ -4,7 +4,7 @@ Implementación del método Particle-in-Cell en una dimensión, teniendo present
 Los códigos tienen que estar en la misma carpeta.
 En el código OneGPLAseed se asignan todos los parámetros necesarios para la semilla.
 En el código OneGPLAmain hay una bandera llamada DINAMICA, con la cual se puede hace 
-una grafica dinámica mientras se ejecuta el código
+una grafica dinámica mientras se ejecuta el código.
 El orden de ejecución es: 
 1-OneGPLAseed
 2-OneGPLAmain
